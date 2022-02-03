@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "03_Operators\O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "04_Strings\Strings.csproj", "{41506D99-8F2A-4066-ABE6-99AF82664C40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeChallenges", "02_Type_Challenges\TypeChallenges.csproj", "{7C266B85-5574-435B-AFFE-80258CE3BDEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_Conditionals", "06_Conditionals", "{B529705F-3585-4139-B1D7-10FDCB8E06EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switches", "06_Conditionals\Switches\Switches.csproj", "{50BCC1A1-B360-4725-B68C-FBE18723FC8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +48,16 @@ Global
 		{41506D99-8F2A-4066-ABE6-99AF82664C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41506D99-8F2A-4066-ABE6-99AF82664C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41506D99-8F2A-4066-ABE6-99AF82664C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C266B85-5574-435B-AFFE-80258CE3BDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C266B85-5574-435B-AFFE-80258CE3BDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C266B85-5574-435B-AFFE-80258CE3BDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C266B85-5574-435B-AFFE-80258CE3BDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BCC1A1-B360-4725-B68C-FBE18723FC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BCC1A1-B360-4725-B68C-FBE18723FC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BCC1A1-B360-4725-B68C-FBE18723FC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BCC1A1-B360-4725-B68C-FBE18723FC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{50BCC1A1-B360-4725-B68C-FBE18723FC8A} = {B529705F-3585-4139-B1D7-10FDCB8E06EC}
 	EndGlobalSection
 EndGlobal

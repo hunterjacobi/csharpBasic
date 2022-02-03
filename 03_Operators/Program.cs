@@ -14,3 +14,9 @@ Console.WriteLine(10 % 2);
 Console.WriteLine(10 % 9);
 Console.WriteLine(16 % 3);
 Console.WriteLine(19 % 5);
+
+// Practice
+Console.WriteLine(10 % 3);
+Console.WriteLine(9 % 2);
+Console.WriteLine(100 % 22);
+Console.WriteLine(13 % 12);
