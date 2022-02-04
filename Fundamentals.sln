@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternaries", "06_Conditional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenges", "Feb4Challenges\Challenges.csproj", "{597C5CE8-4911-4FD5-B7DF-A74D9D735BD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booleans", "05_Booleans\Booleans.csproj", "{847053EA-BF24-43A6-A2AF-FB404139CA61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{597C5CE8-4911-4FD5-B7DF-A74D9D735BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{597C5CE8-4911-4FD5-B7DF-A74D9D735BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{597C5CE8-4911-4FD5-B7DF-A74D9D735BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847053EA-BF24-43A6-A2AF-FB404139CA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847053EA-BF24-43A6-A2AF-FB404139CA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847053EA-BF24-43A6-A2AF-FB404139CA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847053EA-BF24-43A6-A2AF-FB404139CA61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{50BCC1A1-B360-4725-B68C-FBE18723FC8A} = {B529705F-3585-4139-B1D7-10FDCB8E06EC}
