@@ -42,11 +42,11 @@ if (feelingRating == "5")
 {
     Console.WriteLine("That's great to hear!");
 }
-else if (feelingRating == 4)
+else if (feelingRating == "4")
 {
     Console.WriteLine("Good stuff!");
 }
-else if (feelingRating == 3)
+else if (feelingRating == "3")
 {
     Console.WriteLine("Hope things improve!");
 }
@@ -54,7 +54,7 @@ else if (feelingRating == "2")
 {
     Console.WriteLine("Oh. Sorry to hear that.");
 }
-else if (feelingRating == 1)
+else if (feelingRating == "1")
 {
     Console.WriteLine("Dang. We hope your day gets better!");
 }
